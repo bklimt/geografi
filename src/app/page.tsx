@@ -230,7 +230,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.header}>
-        <h1>Geographi</h1>
+        <h1>Geografi</h1>
         <p>The geography quiz for nerds.</p>
       </div>
       {content}

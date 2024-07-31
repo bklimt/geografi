@@ -1,4 +1,4 @@
-# Geographi
+# Geografi
 
 A simple webapp to quiz you on geography.
 
