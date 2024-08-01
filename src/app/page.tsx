@@ -182,17 +182,17 @@ type ScoreTileAttributes = {
 
 function ScoreTile({ score }: ScoreTileAttributes) {
   const descriptions = [
-    "really bad",
-    "pretty dang bad",
-    "very not good",
-    "bad",
-    "kinda awful",
-    "okay, i guess",
-    "better than it could've been",
+    "Not great, but this stuff IS pretty hard",
+    "Better than nothing",
+    "fairly ok",
+    "ok",
+    "a lot better than nothing",
+    "not half bad, its about 3 eights bad",
     "above average",
+    "impresive",
     "pretty good",
-    "really good",
-    "great"
+    "really great",
+    "amazing"
   ];
   return (
     <div className={styles.score}>
